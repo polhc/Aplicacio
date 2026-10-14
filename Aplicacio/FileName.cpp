@@ -69,7 +69,7 @@ int main() {
 		cout << "L'estat esta actiu" << endl;
 	}
 	else {
-		cout << "L'estat no esta actiu" << endl;
+		cout << "L'estat No esta actiu" << endl;
 	}
 
 	sessio1.ampliarTemps(30);
